@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mizuiro技術ログ</title>
-    <link>https://mizuiro.github.io/</link>
+    <link>https://mizuirot.github.io/</link>
     <description>Recent content on mizuiro技術ログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Thu, 03 Sep 2020 00:53:45 +0900</lastBuildDate>
     
-	<atom:link href="https://mizuiro.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mizuirot.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>技術ログ始めました</title>
-      <link>https://mizuiro.github.io/post/hello-hugo/</link>
+      <link>https://mizuirot.github.io/post/hello-hugo/</link>
       <pubDate>Thu, 03 Sep 2020 00:53:45 +0900</pubDate>
       
-      <guid>https://mizuiro.github.io/post/hello-hugo/</guid>
+      <guid>https://mizuirot.github.io/post/hello-hugo/</guid>
       <description>アウトプット置き場を新設しました。
 実をいうとアウトプット先の新設にあたりWordpressまでインストールしたのですが、もう少しエンジニア的な構成があるのではないかとそっと破棄していい感じの構成を探すことに。
  hexo Hugo Jekyll  調べてみると色々あるんですね。今回はメジャーに見えたHugoを採用しました。
@@ -27,10 +27,10 @@
     
     <item>
       <title></title>
-      <link>https://mizuiro.github.io/archives/</link>
+      <link>https://mizuirot.github.io/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mizuiro.github.io/archives/</guid>
+      <guid>https://mizuirot.github.io/archives/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on mizuiro技術ログ</title>
-    <link>https://mizuiro.github.io/categories/</link>
+    <link>https://mizuirot.github.io/categories/</link>
     <description>Recent content in Categories on mizuiro技術ログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Thu, 03 Sep 2020 00:53:45 +0900</lastBuildDate>
     
-	<atom:link href="https://mizuiro.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mizuirot.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Others</title>
-      <link>https://mizuiro.github.io/categories/others/</link>
+      <link>https://mizuirot.github.io/categories/others/</link>
       <pubDate>Thu, 03 Sep 2020 00:53:45 +0900</pubDate>
       
-      <guid>https://mizuiro.github.io/categories/others/</guid>
+      <guid>https://mizuirot.github.io/categories/others/</guid>
       <description></description>
     </item>
     
